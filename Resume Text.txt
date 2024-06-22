@@ -1,0 +1,136 @@
+Personal Information:
+
+Name: Mohamed Atef Abdelhay Ghanem
+
+Title: Python Developer • Machine Learning Engineer • Software Engineer
+
+Location: Gharbia, Egypt
+Phone: (+20) 1013424947
+Email: mohamed.atef.ghanem123@gmail.com
+Military Status: Exempted
+
+LinkedIn: linkedin.com/in/mohamed-atef-651099193
+GitHub: github.com/MohamedAtef321
+Twitter: twitter.com/TeFa564
+Kaggle: kaggle.com/mohamedatef321
+
+
+Summary:
+
+Fresh graduate software engineer with over 1 year in data-related development and 3 years of self-study in software development. Specialized in machine and deep learning, data scraping, automation, and web development, with familiarity in wireless communication engineering. Recognized for achieving goals, driving revenue, and ensuring operational efficiency.
+
+
+Education:
+
+Graduated from Faculty of Engineering, Mansoura University, Egypt
+with a Bachelor's Degree in Communications and Electronics Engineering
+Graduated with Excellent grades (85), 2018 – 2023
+
+
+Professional Experience:
+
+SQL Implementer
+in Login HR System, Egypt
+from Nov 2023 till now
+was responsible for:
+Optimized SQL queries for efficient data retrieval and manipulation.
+Assisted in troubleshooting and resolving database-related issues.
+
+Freelance Software Developer
+on Upwork, Remote
+worked on the following projects:
+Object Detection: Provided machine learning consultation with the YOLOv5 model.
+Bayesian Statistics: Developed IRT models with Stan programming.
+Data Scraping: Created a tool using Selenium to scrape indicator data called Open Interest from a dynamic TradingView chart and export it to CSV/Excel files.
+AI Melody Generator: Built a tool to generate music melodies based on an existing melody using deep learning.
+
+
+Trainings:
+
+Computer Vision - Summer Training
+in ITI (Information Technology Institute), Egypt
+from Aug 2022 to Sep 2022
+Covered advanced topics in Computer Vision:
+Image Processing and Filters
+Python Libraries: OpenCV, NumPy, TensorFlow
+
+
+Projects:
+
+project Name: Road Traffic Signs Detection (RTSD) System (ADAS)
+Graduation Project - Sponsored and Mentored by Swift-Act (https://www.linkedin.com/company/swift-act/)
+project github link: https://github.com/MohamedAtef321/RTSD-Road-Traffic-Signs-Detection-System
+from Sep 2022 to Jul 2023
+Used AI and computer vision to help self-driving cars interact with traffic signs.
+Fine-tuned YOLOv8 on a traffic signs dataset and deployed it on a Raspberry Pi board.
+Implemented additional features:
+Night Vision: Enhances vision accuracy in dark environments.
+Lane-Line Detection: Helps the self-driving car detect lane lines.
+
+Machine Learning Projects:
+Projcets Github link: https://github.com/MohamedAtef321/kaggle
+from Aug 2021 to Jul 2022
+Projects:
+Fashion MNIST Classification: Matplotlib, TensorFlow
+Eye Gender Classifier: NumPy, Keras
+House Prices Project: 5 ML models using Pandas, Sci-kit Learn
+Digit Recognizer: Matplotlib, TensorFlow
+Telco Customer Churn Project: Pandas, Seaborn, Sci-kit Learn
+
+Android Apps (Under Development)
+Projcets Github link: https://github.com/MohamedAtef321/Android
+Projects:
+10Seconds App: An app to write a broadcast message and show it to all app users.
+Rich App: A social media app to group all rich minds on a platform.
+
+
+Skills:
+
+General:
+Coding, Debugging, Problem Solving
+Git / GitHub familiarity
+Data Scraping and Automation
+Web Apps Back-End Development
+Linux Administration, Software Engineering, Cybersecurity
+Assembly, Communication, and Networks
+Android App Development
+Good knowledge of 2G, 3G, and 4G technologies in mobile communication.
+Adobe Photoshop and Graphic Design
+Database Management
+
+Technical:
+Python (NumPy, Pandas, OpenCV, TensorFlow, Sci-Kit Learn, BeautifulSoup, Selenium, Django, Flask)
+Machine Learning & Deep Learning Algorithms
+Computer Vision techniques
+Java, C/C++, SQL, Excel, Database, PyTorch
+HTML, CSS, JavaScript
+
+
+Student Activities:
+
+Leader
+in Electronics Branch - TIB Team
+from Jan 2022 to Oct 2022
+Guided students in:
+Electronic Circuit Analysis
+PCB Design, Manufacturing, Maintenance
+
+Supervisor
+in Artificial Intelligence Branch - Starks Team
+from Sep 2021 to Sep 2022
+Studied and applied AI models in real projects.
+Certifications and Courses
+
+
+Certifications and Courses:
+
+Machine Learning Specialization (Coursera)
+Link: https://coursera.org/share/517053ccec1459e1061e76cb3d09037d
+
+Deep Learning Specialization (YouTube)
+Link: https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
+
+Data Analysis & Visualization Courses (DataCamp)
+
+Python for Data Science and Machine Learning Bootcamp (Udemy)
+Link: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
